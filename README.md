@@ -25,7 +25,7 @@ My goal is to make a positive impact through my work and contribute to the ever-
 </div>
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=cricket-lover&show_icons=true&line_height=27&count_private=true&theme=gotham" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cricket-lover&show_icons=true&line_height=27&theme=gotham" alt="GitHub Stats" />
 </div>
 
 </div>
