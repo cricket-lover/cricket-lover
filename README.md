@@ -6,9 +6,29 @@ Welcome to my GitHub profile! I'm Phaneendra, a passionate and creative software
 
 ## About Me
 
-I'm a developer based in Bangalore, India 🌍, and I thrive on the excitement of bringing ideas to life through code. With expertise in a wide range of technologies, including JavaScript, ReactJS, Node.js, HTML, CSS, C, Java, and SQL, I have the tools to tackle diverse projects and overcome complex challenges.
+I'm a developer based in Bangalore, India 🌍. Currently working in [Quintype Technologies](https://www.quintype.com/), and I thrive on the excitement of bringing ideas to life through code. With expertise in a wide range of technologies, including JavaScript, ReactJS, Node.js, HTML, CSS, C, Java, and SQL, I have the tools to tackle diverse projects and overcome complex challenges.
 
 My goal is to make a positive impact through my work and contribute to the ever-evolving tech community. I am a constant learner, always seeking new opportunities to grow, adapt, and refine my skills.
+
+<code><img height="20" title="javascript" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" title="react"  alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" title="nodejs" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+
+<hr/>
+
+### Stats
+
+<div style="display:flex; gap: 20px;align-items: center;">
+
+<div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cricket-lover&layout=compact&theme=gotham" alt="Most Used Languages"/>
+</div>
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=cricket-lover&show_icons=true&line_height=27&count_private=true&theme=gotham" alt="GitHub Stats" />
+</div>
+
+</div>
 
 ## Projects
 
