@@ -1,5 +1,7 @@
 # Welcome to Phaneendra's GitHub Profile! 👨‍💻
 
+[![An image of @cricketlover's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/cricketlover)](https://holopin.io/@cricketlover)
+
 ## Hi there! 👋
 
 Welcome to my GitHub profile! I'm Phaneendra, a passionate and creative software developer with over 4 years of experience. I love to explore the endless possibilities of technology and use my skills to create innovative and user-friendly solutions.
@@ -44,6 +46,8 @@ A food delivery app which shows restaurants(hardcoded for now) and lets you add 
 - Lazy loading images
 - Debounce Search
 - Sort by different categories
+- JWT authentication
+- Razorpay Payment Gateway Integration
 
 **Tech Used:**
 
